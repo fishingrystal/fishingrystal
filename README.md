@@ -1,4 +1,4 @@
-# Hey, I'm Sinbun
+# Hey, I'm Sindiverr
 ### Who Am I?
 I'm an independant developer just trying to have fun
 ### What Do you Code in?
