@@ -1,15 +1,16 @@
 # Hey, I'm Sindiverr
 ### Who Am I?
-I'm an independant developer just trying to have fun
+I'm an independant developer and content creator just trying to have fun with some friends
 ### What Do you Code in?
 As an IDE I usually use Visual Studio Code (or PyCharm for Python)<br>
-Currently, I'm using the languages: Python, C#, JavaScript, HTML, and PHP, (n some lua)
+Currently, I'm using the languages: Python, C#, Java, HTML, and PHP, (n some lua)
 ### Any Projects you're working on?
-Tesser - PAUSED<br>
-Argyle - ONGOING<br>
-Sprout - PAUSED<br>
-CiXy - ONGOING<br>
-Sharingan - ONGOING<br>
+Tesser (PY) - INTEGRATED WITH KIBERI<br>
+Kiberi (PY) - WORKING ON<br>
+Argyle (C#) - ONGOING<br>
+Sprout (J) - PAUSED<br>
+CiXy (HYBRID) - ONGOING<br>
+Sharingan (J) - ONGOING<br>
 ### Closing Remarks
 Feel free to use the code that I create in your own projects:<br>
 TOS can be found here: -----------------------<>
