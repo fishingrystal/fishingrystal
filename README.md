@@ -12,4 +12,6 @@ CiXy - ONGOING<br>
 Sharingan - ONGOING<br>
 ### Closing Remarks
 Feel free to use the code that I create in your own projects:<br>
-TOS can be found here: -----------------------
+TOS can be found here: -----------------------<>
+### Extra Socials
+All of my other social links can be found at https://solo.to/1h
