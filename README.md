@@ -1,4 +1,4 @@
-# Hey, I'm Sindiverr
+# Fiswirl
 ### Who Am I?
 I'm an independant developer and content creator just trying to have fun with some friends
 ### What Do you Code in?
