@@ -1,3 +1,2 @@
-# rystal fishing
-smacking bots since 12'
-
+# Rystal Fishing
+[links](https://solo.to/rystal)
